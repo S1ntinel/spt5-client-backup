@@ -2,6 +2,8 @@
 
 本仓库保存 `LIxian BaN.7z` 的中文使用说明、存档说明和分卷校验信息。完整原包放在 GitHub Release，Git 仓库不保存游戏大文件。
 
+下载与发布状态：[Releases 页面](https://github.com/S1ntinel/spt5-client-backup/releases)。需要登录拥有此私有仓库权限的 GitHub 账号。
+
 **这是个人环境快照，不是重新制作的通用整合包，也没有保证所有地图、账号和模式均无故障。** 原压缩包保持逐字节不变。
 
 | 项目 | 内容 |
