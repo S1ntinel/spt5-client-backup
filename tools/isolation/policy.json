@@ -1,0 +1,7 @@
+{
+  "protected_roots": ["C:\\steam\\steamapps\\common\\Escape from Tarkov"],
+  "spt_roots": ["D:\\LIxian BaN\\EFT5.0", "D:\\LIxian BaN\\EFT5.0\\_SPTMap_Test"],
+  "marker": ".spt-development-root",
+  "marker_content": "SPT_MOD_DEVELOPMENT_ALLOWED",
+  "live_only_markers": ["LIVE_PROTECTED_DO_NOT_MODIFY.txt", "BattlEye", "EscapeFromTarkov_BE.exe", "BsgLauncher.exe", "ConsistencyInfo"]
+}
